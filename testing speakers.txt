@@ -1,0 +1,126 @@
+<section class="container-fluid">
+
+    <div class="row">
+
+        <div class="col-6" id="card">
+            <div class="row" id="speaker-card">
+                <div class="col-3">
+                    <img src="./imgs/John_Dee_Ashmolean.jpg" alt="John_Dee_Ashmolean">
+                </div>
+                <div class="col-6">
+                    <p>John Doe</p>
+                    <p>John is a renowned open source software developer and advocate.</p>
+                    <p>In his presentation, he discussed the importance of open source software in driving
+                        innovation and creativity in the tech industry.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <!-----------------------speaker two-------------->
+
+        <div class="col-6" id="card">
+            <div class="row" id="speaker-card">
+                <div class="col-3">
+                    <img src="./imgs/mary.jpg" alt="mary picture">
+                </div>
+                <div class="col-6">
+                    <p>Mary Johnson </p>
+                    <p> Mary is a well-known open source software developer and contributor.</p>
+                    <p> In her keynote speech, she talked about the impact of open and free culture on the creative
+                        process, and how it has enabled her to collaborate with others to create innovative
+                        projects.</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-1"></div>
+            <div class="col-10" id="more-button">
+                <span>MORE</span><span> <i class="fa fas fa-bookmark"></i></span>
+            </div>
+        </div>
+
+        <!-----------------------speaker three-------------->
+        <div class="col-6" id="card">
+            <div class="row" id="speaker-card">
+                <div class="col-3">
+                    <img src="./imgs/bob.jpg" alt="bobo">
+                </div>
+                <div class="col-6">
+                    <p>Bob Johnson</p>
+                    <p>Bob is a leading researcher in the field of open innovation</p>
+                    <p>In his presentation, he shared his insights on the role of open culture in fostering innovation
+                        and creativity in a variety of industries.</p>
+                </div>
+            </div>
+
+        </div>
+        <!-----------------------speaker four-------------->
+
+        <div class="col-6" id="card">
+            <div class="row" id="speaker-card">
+                <div class="col-3">
+                    <img src="./imgs/sara.jpeg" alt="sara">
+                </div>
+                <div class="col-6">
+                    <p>Sarah Lee </p>
+                    <p> Sarah is a successful entrepreneur and open culture advocate.</p>
+                    <p>In her workshop, she shared her experiences and lessons learned on building successful
+                        businesses based on open and free culture principles.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <!-----------------------speaker five-------------->
+
+
+        <div class="col-6" id="card">
+            <div class="row" id="speaker-card">
+                <div class="col-3">
+                    <img src="./imgs/tom.png" alt="tom">
+                </div>
+                <div class="col-6">
+                    <p>Tom Brown </p>
+                    <p>Tom is a renowned musician and open culture activist.</p>
+                    <p>In his keynote speech, he discussed the impact of open culture on the music industry and
+                        how
+                        it has enabled him to collaborate with other musicians and create new, innovative
+                        sounds.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+
+        <!-----------------------speaker six-------------->
+        <div class="col-6" id="card">
+            <div class="row" id="speaker-card">
+                <div class="col-3">
+                    <img src="./imgs/kim.png" alt="kim">
+                </div>
+                <div class="col-6">
+                    <p>Elizabeth Kim</p>
+                    <p>Elizabeth is a prominent researcher and scholar in the field of open culture.</p>
+                    <p>She may have shared her insights and findings on the relationship between open culture
+                        and
+                        innovation, and the ways in which open and free culture can drive creativity and
+                        innovation
+                        in various industries and fields.</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-1"></div>
+            <div class="col-9" id="less-button">
+                <span>See Less</span><span> <i class="fas fa-sync"></i></span>
+            </div>
+        </div>
+
+    </div>
+
+
+</section>
